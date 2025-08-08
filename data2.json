@@ -1,0 +1,97 @@
+[
+  {
+    "instruction": "Présente IMVL à un visiteur intéressé",
+    "input": "Pouvez-vous me parler d’IMVL ?",
+    "output": "IMVL est un centre de formation professionnelle spécialisé dans la logistique, le transport et la gestion de la chaîne d’approvisionnement. Nous proposons des programmes adaptés aux besoins du marché, combinant théorie et pratique. Nos formateurs sont des experts ayant une solide expérience sur le terrain, ce qui garantit un apprentissage concret et applicable. En rejoignant IMVL, vous bénéficiez également d’un réseau professionnel et d’un suivi personnalisé."
+  },
+  {
+    "instruction": "Réponds en Darija avec détails",
+    "input": "شنو كتقدم IMVL بالضبط ؟",
+    "output": "IMVL كتقدم تكوينات فالميادين ديال اللوجستيك والنقل وتسيير السلسلة اللوجستيكية. الدروس كتكون عملية ونظرية مع بعض، وكتسمح للمتدرب يطبق اللي تعلمه مباشرة. الأساتذة عندهم خبرة كبيرة فالميدان وكيعاونوا الطلبة خطوة بخطوة باش يحققوا أهدافهم."
+  },
+  {
+    "instruction": "Décrire le programme logistique",
+    "input": "Quels sont les modules du programme logistique ?",
+    "output": "Le programme logistique d’IMVL couvre plusieurs aspects clés : la gestion de stock, le transport national et international, l’import/export, la logistique portuaire, et la gestion de la chaîne d’approvisionnement. Chaque module inclut des cas pratiques et des simulations réelles pour mieux préparer les apprenants au marché de l’emploi. Ce programme est conçu pour répondre aux exigences des entreprises modernes."
+  },
+  {
+    "instruction": "Convaincre un client de visiter IMVL",
+    "input": "Pourquoi devrais-je venir à IMVL en personne ?",
+    "output": "En venant à IMVL, vous pourrez rencontrer directement nos formateurs et échanger sur vos objectifs. Vous découvrirez nos salles de formation équipées, notre ambiance professionnelle et nos outils pédagogiques modernes. C’est aussi l’occasion de discuter avec nos anciens étudiants et de voir comment la formation a changé leur parcours professionnel."
+  },
+  {
+    "instruction": "Répondre sur la durée",
+    "input": "Combien de temps dure la formation ?",
+    "output": "La durée d’une formation varie selon le programme choisi. En général, nos formations intensives durent 2 à 3 mois, tandis que les programmes plus complets peuvent aller jusqu’à 6 mois. Nous proposons également des formules en soirée ou le week-end pour les professionnels."
+  },
+  {
+    "instruction": "Réponse motivante en Darija",
+    "input": "أنا خايف مانقدرش نكمل التكوين",
+    "output": "ما تقلقش، فـ IMVL حنا دايرين برنامج باش نوقفوا معاك حتى تسالي بنجاح. الأساتذة والمتدربين القدام كيعطيوك الدعم والنصائح باش تتجاوز أي صعوبات. غير خلي النية وبدا، والباقي غادي يجي مع الوقت."
+  },
+  {
+    "instruction": "Répondre sur les débouchés",
+    "input": "Quels sont les débouchés après la formation ?",
+    "output": "Nos diplômés trouvent rapidement des opportunités dans des entreprises de transport, de logistique, et d’import/export. Certains travaillent dans la gestion d’entrepôt, la coordination des flux de marchandises ou la logistique portuaire. D’autres choisissent de créer leur propre entreprise dans le secteur."
+  },
+  {
+    "instruction": "Répondre en Darija sur les débouchés",
+    "input": "و منين نسالي التكوين شنو نقدر نخدم ؟",
+    "output": "بعد ما تسالي، تقدر تخدم فشركات النقل، اللوجستيك، الاستيراد والتصدير، أو حتى فالموانئ. كاينين ناس تخرجوا من IMVL ودابا عندهم مشاريعهم الخاصة فالمجال."
+  },
+  {
+    "instruction": "Parler de la certification",
+    "input": "Est-ce que IMVL donne une attestation ?",
+    "output": "Oui, à la fin de la formation, une attestation reconnue est délivrée aux participants ayant suivi et validé le programme. Ce document atteste de vos compétences et peut être présenté à des employeurs ou utilisé pour développer votre activité."
+  },
+  {
+    "instruction": "Parler des inscriptions",
+    "input": "Comment m’inscrire à la formation ?",
+    "output": "Vous pouvez vous inscrire directement sur notre site web en remplissant le formulaire prévu. Il est aussi possible de venir sur place avec votre pièce d’identité et de discuter avec notre équipe pour choisir la formule qui vous convient."
+  },
+  {
+    "instruction": "Répondre sur les conditions d’accès",
+    "input": "Faut-il un diplôme pour s’inscrire ?",
+    "output": "Non, aucun diplôme spécifique n’est exigé pour rejoindre nos formations. Nous accueillons des personnes motivées, qu’elles soient débutantes ou déjà actives dans le domaine. L’important est votre engagement à apprendre et à progresser."
+  },
+  {
+    "instruction": "Répondre en Darija sur les horaires",
+    "input": "واش كاين تكوين بالليل ؟",
+    "output": "ايه، عندنا حصص فالليل مخصصة للناس اللي كيخدمو فالنهار. هاد الصيغة كتخلي المتدرب يوازن بين الخدمة والدراسة."
+  },
+  {
+    "instruction": "Présenter le suivi après formation",
+    "input": "Est-ce qu’il y a un accompagnement après la formation ?",
+    "output": "Oui, nous proposons un suivi personnalisé pour aider nos diplômés à trouver un emploi ou à lancer leur propre projet. Nous partageons des offres, organisons des mises en relation avec nos partenaires et donnons des conseils pour réussir dans le domaine."
+  },
+  {
+    "instruction": "Répondre sur les programmes spécialisés",
+    "input": "Avez-vous une formation spécialisée en logistique portuaire ?",
+    "output": "Oui, nous proposons un module dédié à la logistique portuaire. Il aborde la gestion douanière, le suivi des marchandises et les procédures spécifiques aux activités maritimes."
+  },
+  {
+    "instruction": "Répondre sur les modalités de paiement",
+    "input": "Puis-je payer en plusieurs fois ?",
+    "output": "Oui, nous offrons des facilités de paiement pour permettre à chacun de suivre la formation. Vous pouvez échelonner le règlement sur plusieurs mensualités selon vos possibilités."
+  },
+  {
+    "instruction": "Répondre en Darija sur les formateurs",
+    "input": "شكون كيعطي التكوينات ؟",
+    "output": "التكوينات كيعطيهم أساتذة محترفين عندهم سنين ديال الخبرة فاللوجستيك والنقل. كيشرحوا بطريقة بسيطة وعملية باش الجميع يفهم."
+  },
+  {
+    "instruction": "Mettre en avant la différence d’IMVL",
+    "input": "Qu’est-ce qui rend IMVL différent ?",
+    "output": "Notre approche repose sur un apprentissage pratique, une adaptation constante aux besoins du marché et un accompagnement humain. Nous ne formons pas seulement des techniciens, mais des professionnels prêts à relever les défis du terrain."
+  },
+  {
+    "instruction": "Répondre en Darija pour motiver",
+    "input": "بغيت نطور راسي ولكن ماعارفش منين نبدأ",
+    "output": "بدا معانا، التكوين فـ IMVL غادي يفتح ليك بزاف ديال الفرص. غادي تتعلم مهارات جديدة وتتعرف على ناس فالمجال يساعدوك توصل لأهدافك."
+  },
+  {
+    "instruction": "Répondre sur la disponibilité des places",
+    "input": "Est-ce qu'il reste des places ?",
+    "output": "Oui, mais les places sont limitées pour garantir un suivi personnalisé. Nous conseillons de s’inscrire rapidement pour ne pas manquer la prochaine session."
+  }
+]
