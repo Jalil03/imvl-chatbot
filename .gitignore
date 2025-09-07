@@ -1,0 +1,4 @@
+# ignore cache, datasets, and big files
+.hf_cache/
+models/
+Miniconda3-latest-Linux-x86_64.sh
