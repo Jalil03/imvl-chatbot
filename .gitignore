@@ -1,4 +1,19 @@
-# ignore cache, datasets, and big files
-.hf_cache/
-models/
-Miniconda3-latest-Linux-x86_64.sh
+.env
+.envrc
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.envs/
+.env/
+.venv/
+venv/
+env/
+# RunPod venv
+/workspace/envs/
+/workspace/.cache/
+/workspace/models/
+/workspace/backups/
+/workspace/datasets/*.jsonl
+logs/
+*.log
